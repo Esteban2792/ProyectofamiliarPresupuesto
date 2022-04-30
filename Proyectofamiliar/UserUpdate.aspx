@@ -8,7 +8,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
      <div class="container">
 		<div class="clearfix header">
-			<h1>Actualizar Transacciones</h1>
+			<h1>Actualizar Usuarios</h1>
 			<!-- toggles 'add new budget item' form on click -->
 		</div>
 

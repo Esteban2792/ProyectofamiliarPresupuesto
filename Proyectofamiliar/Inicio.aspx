@@ -11,7 +11,6 @@
 		<div class="clearfix header">
 			<h1>Presupuesto familiar 2022</h1>
 			<!-- toggles 'add new budget item' form on click -->
-			<asp:Button ID="BtnIngresar" class="btn btn-primary" runat="server" Text="Ingresar un elemento nuevo" />
 		</div>
 
 		<!-- 'add new budget item' form -->
